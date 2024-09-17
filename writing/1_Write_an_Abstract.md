@@ -8,3 +8,4 @@ Imagine you have completed a research project and are ready to publish your find
 - Think about a target conference/ journal
 - Specify output constraints to the LLM, e.g., 150-250 words or 3-5 sentences.
 - The cognitive verifier pattern can be helpful here to generate an abstract of better quality
+- You can also start with bullet points and use the LLM as an expander, then refine your work
