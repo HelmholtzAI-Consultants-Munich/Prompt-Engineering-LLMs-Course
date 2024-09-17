@@ -1,3 +1,15 @@
+## Exercise: Structuring Text Data for Downstream Applications
+
+Below are sample reviews for healthcare providers. With the help of an LLM, reformat these reviews into a structured format, such as Markdown, JSON, XML, or any other format suitable for a downstream application. Think about an application in your daily work, where the structured output can be helpful. E.g., integration with analytics tools, databases, creating user-friendly visualizations on websites, etc.
+
+
+### Hints
+- The template pattern can help you define the structure of the output
+- The tail generation pattern can also be helpful
+
+### Text
+
+```
 Brighton Family Clinic:
 Reviewer 1: "The staff at Brighton Family Clinic were warm and welcoming. Wait time was about 15 minutes, which is reasonable. The facility was clean, and I felt well taken care of. Overall, a great experience."
 Reviewer 2: "Had to wait over 30 minutes past my appointment time at Brighton, but the care provided by Dr. Harrison was excellent. The clinic is well-maintained."
@@ -17,3 +29,4 @@ Greenwood Mental Health Services:
 Reviewer 1: "Greenwood Mental Health Services provided me with the support I needed during a tough time. The therapists are compassionate and skilled."
 Reviewer 2: "While the wait time to get an appointment at Greenwood can be lengthy, the quality of care and the friendliness of the staff make it worth it."
 Reviewer 3: "I have been going to Greenwood Mental Health Services for six months now. The facility is always clean, and the staff are very professional and understanding."
+```
