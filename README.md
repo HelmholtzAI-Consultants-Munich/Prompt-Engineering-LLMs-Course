@@ -22,3 +22,7 @@ For the practical session, make sure you do the following:
 | 16:00 - 17:00  | Practical session: Coding             | 1 h      |
 | 17:00 - 17:10  | Break                                 | 10 min   |
 | 17:10 - 17:30  | Guidelines and conclusions            | 20 min   |
+
+
+## Survey
+Please fill out this [survey](https://forms.gle/WwAUBbFVu27umBqm9) to help us improve in the future!
