@@ -2,6 +2,7 @@
 
 You can find Some useful information for the course here:
 - [Intro Slides](https://docs.google.com/presentation/d/1q1R28V132U1WGFaGnYeR9Myzr3G3TCIjEo87wMaAQ-o/edit?usp=sharing)
+- [Blablador Slides](https://strube1.pages.jsc.fz-juelich.de/2024-09-course-helmholtz-summer-school/#/title-slide)
 - [Miro Borad](https://miro.com/app/board/uXjVLeDn4Bc=/?share_link_id=47616148871)
 
 ## Prerequisites
