@@ -14,10 +14,10 @@ For the practical session, make sure you do the following:
 
 | Time           | Session                               | Duration |
 |----------------|---------------------------------------|----------|
-| 13:30 - 14:15  | Introduction and Prompt engineering tips | 45 min   |
-| 14:15 - 15:00  | Practical session: Writing            | 45 min   |
-| 15:00 - 15:10  | Break                                 | 10 min   |
-| 15:10 - 16:00  | Introduction to Blablador             | 50 min   |
+| 13:30 - 14:20  | Introduction and Prompt engineering tips | 50 min   |
+| 14:20 - 15:05  | Practical session: Writing            | 45 min   |
+| 15:05 - 15:15  | Break                                 | 10 min   |
+| 15:15 - 16:00  | Introduction to Blablador             | 45 min   |
 | 16:00 - 17:00  | Practical session: Coding             | 1 h      |
 | 17:00 - 17:10  | Break                                 | 10 min   |
 | 17:10 - 17:30  | Guidelines and conclusions            | 20 min   |
