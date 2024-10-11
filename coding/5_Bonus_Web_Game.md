@@ -4,6 +4,8 @@ Use an LLM to create your own web-based game (something classic like snake). To 
 
 Note: CSS and JavaScript are typically placed in separate files and linked to the HTML. However, for simplicity in this exercise, we include everything in one file.
 
+[Html online editor](https://www.w3schools.com/html/)
+
 ### Basic structure of an HTML file
 
 #### HTML (HyperText Markup Language): 
