@@ -3,6 +3,7 @@
 You can find Some useful information for the course here:
 - [Intro Slides](https://docs.google.com/presentation/d/1dHsetnMQuKlR_k6TXXYzYWyfIJ2_6T0yQYnqx8ZA-FQ/edit?usp=sharing)
 - [Miro Borad](https://miro.com/app/board/uXjVLTMIlDg=/?share_link_id=107487353758)
+- [Zoom Link](https://us02web.zoom.us/j/85748737416?pwd=zUVoKn9jjmNAw6zmLiehukWsDMWCbG.1)
 
 ## Prerequisites
 Please make sure you have an account on [ChatGPT](https://chatgpt.com/)
