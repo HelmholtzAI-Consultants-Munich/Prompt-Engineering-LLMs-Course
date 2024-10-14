@@ -20,4 +20,4 @@ Please make sure you have an account on [ChatGPT](https://chatgpt.com/)
 
 
 ## Survey
-Please fill out this [survey](https://forms.gle/aD2QL72GhBJAwG9D7) to help us improve in the future!
+Please fill out this [survey](https://events.hifis.net/event/1675/surveys/436) to help us improve in the future!
