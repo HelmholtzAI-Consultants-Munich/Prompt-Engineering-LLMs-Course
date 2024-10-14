@@ -1,6 +1,6 @@
 ## Exercise: Enhance and Rewrite a Poorly Written Text
 
-The following text is a deliberately poorly written mini article. Use Blablador to improve the text (structure, clarity, language, tone, etc.). Adapt it to suit your typical writing style, e.g., research paper, blog post, etc.
+The following text is a deliberately poorly written mini article. Use ChatGPT to improve the text (structure, clarity, language, tone, etc.). Adapt it to suit your typical writing style, e.g., research paper, blog post, etc.
 
 Bonus: write a tweet about it!
 

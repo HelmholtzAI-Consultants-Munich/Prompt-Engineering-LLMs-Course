@@ -1,6 +1,6 @@
 ## Exercise: Structuring Text Data for Downstream Applications
 
-Below are sample reviews for healthcare providers. With the help of an LLM, reformat these reviews into a structured format, such as Markdown, JSON, XML, or any other format suitable for a downstream application. Think about an application in your daily work, where the structured output can be helpful. E.g., integration with analytics tools, databases, creating user-friendly visualizations on websites, etc.
+Below are sample reviews for healthcare providers. With the help of ChatGPT, reformat these reviews into a structured format, such as Markdown, JSON, XML, or any other format suitable for a downstream application. Think about an application in your daily work, where the structured output can be helpful. E.g., integration with analytics tools, databases, creating user-friendly visualizations on websites, etc.
 
 
 ### Hints
